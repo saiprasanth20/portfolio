@@ -45,7 +45,7 @@ function About(){
                     <h5 class="clgname">VIT-AP University</h5>
                     <h6>(2021-2025)</h6>
                     <h6>B.Tech in Computer Science and Engineering and Business Systems</h6>
-                    <h6>CGPA: <span class="result">8.79</span></h6>
+                    <h6>CGPA: <span class="result">8.85</span></h6>
                     <br/>
                     <h5 class="clgname">Sri Viswa Junior College</h5>
                     <h6>(2019-2021)</h6>
@@ -56,20 +56,20 @@ function About(){
             </div>
             <div class="work">
                 <h2>Work experience</h2>
-                <h5 class="clubname">SEED Club - VIT AP (2022-2023)</h5>
-                <p>Worked as a lead for
-                SEED club during the
-                academic year 2022-2023.</p>
+                <h5 class="clubname">INTERN -INTRANTECH oct-2023 to nov-2023</h5>
+                <p>Worked as a intern for
+                 INTRAINTECH where i have devloped my experience on AI and ML.
+                  </p>
                 <br/>
                 <h5 class="clubname">INTERN -ETHNUS Aug-2023 to nov-2023</h5>
                 <p>Worked as a intern for
                  Ethnus where i have learnt web devlopment.
                   </p>
                 <br/>
-                <h5 class="clubname">INTERN -INTRANTECH oct-2023 to nov-2023</h5>
-                <p>Worked as a intern for
-                 INTRAINTECH where i have devloped my experience on AI and ML.
-                  </p>
+                <h5 class="clubname">SEED Club - VIT AP (2022-2023)</h5>
+                <p>Worked as a lead for
+                SEED club during the
+                academic year 2022-2023.</p>
                 <br/>
             </div>
         </div>
